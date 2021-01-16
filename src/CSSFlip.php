@@ -1,13 +1,15 @@
 <?php
-/**
- * CSS Flip
- * @version 1.0
- * @author Penobit <info@penobit.com>
- * @url https://penobit.com
- * @url https://github.com/Penobit/css-flip
- */
 
 namespace Penobit\CSSFlip;
+
+/**
+ * CSS Flip
+ * 
+ * @version 1.0
+ * @author Penobit <info@penobit.com>
+ * @link https://penobit.com
+ * @link https://github.com/Penobit/css-flip
+ */
 
 class CSSFlip {
 	// Patterns defined as null are built dynamically by buildPatterns()
