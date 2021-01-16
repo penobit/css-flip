@@ -1,7 +1,6 @@
 {
     "name": "penobit/css-flip",
     "description": "Flips css codes from ltr to rtl (or rtl to ltr)",
-    "version": "1.0",
     "keywords": ["flip", "css", "penobit", "change direction", "change css direction", "css flip", "flip css"],
     "license": "MIT",
     "homepage": "http://github.com/Penobit/css-flip",
